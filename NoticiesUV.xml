@@ -1,0 +1,30 @@
+<?xml version=»1.0″ encoding=»UTF-8″ ?>
+<rss version=»2.0″>
+<rss>
+
+<channel>
+
+<title>Universidad vegana de Lleida</title>
+<link>https://pajajandro.github.io/UNI-Vegana/</link>
+<description>Noticies de actulidad</description>
+
+<item>
+<title>Nuevo invento para regresar al pasado ¿real o fake?</title>
+<link>https://as.com/rss/ciclismo/giro_italia.xml</link>
+<description>Un hombre habla de haber viajado por el tiempo hacia el futuro y el presente lo mas sorprendente de eso es que no consta que haya nacido en la ciudad ni su dia, es un hombre que verdaderamente viajo el timepo</description>
+</item>
+
+<item>
+<title>Se descubre una nueva especie con un microscopio hecho a mano</title>
+<link>https://as.com/rss/ciclismo/giro_italia.xml</link>
+<description>La nueva especie fue un descubrimiento realizado por Federico garcia Lorca quien tiene ahora el premio novel al mejor descubridor !que capo¡</description>
+</item>
+
+<item>
+<title>Nuevo rt 3500 </title>
+<link>https://as.com/rss/ciclismo/giro_italia.xml</link>
+<description>El inventor German Garmedia crea la nueva rtx 3500 capaz de hacer el minecraft mucho mas realista</description>
+</item>
+
+</channel>
+</rss>
